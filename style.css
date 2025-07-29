@@ -2,7 +2,7 @@
 body {
   font-family: 'Arial', sans-serif;
   margin: 0;
-  background: #0F0F14; 
+  background: #3A2B55; 
   display: flex;
   justify-content: center;
   padding: 20px;
@@ -27,7 +27,7 @@ body {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
   transition: transform 0.3s, box-shadow 0.3s;
   color: #D8D9DA;
-  border: 1.5px solid #3A2B55;
+  border: 1.5px solid #9e333f;
 }
 
 .card:hover {
